@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597750088018",
+    "project_id": "flash-chat-573d0",
+    "storage_bucket": "flash-chat-573d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597750088018:android:fefc0b552c0aa8645f7a8b",
+        "android_client_info": {
+          "package_name": "com.nitin.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9nQicmlQAYY1h2fKMq5yQ__QALLXPt8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
